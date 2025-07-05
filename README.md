@@ -13,7 +13,7 @@ This is a simple static website hosted on Azure Blob Storage using the Azure Fre
 4. Deployed the site publicly using the Azure-provided URL
 
  Live Site
-[Visit the website](https://https://lowcostredunblob.z20.web.core.windows.net)
+[Visit the website](https://lowcostredunblob.z20.web.core.windows.net/)
 
 ![Live Site Screenshot](screenshots/live-site.png)
 
