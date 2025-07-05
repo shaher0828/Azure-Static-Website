@@ -17,7 +17,7 @@
 
 ![Live Site Screenshot](screenshots/Web1Track.png)
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Add CSS for design
 - Automate deployment using Azure CLI or GitHub Actions
 - Link a custom domain with HTTPS
