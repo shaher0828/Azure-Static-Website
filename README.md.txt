@@ -15,4 +15,5 @@ This is a simple static website hosted on Azure Blob Storage using the Azure Fre
  Live Site
 [Visit the website](https://https://lowcostredunblob.z20.web.core.windows.net)
 
+![Live Site Screenshot](screenshots/live-site.png)
 
